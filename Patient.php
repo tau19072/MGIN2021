@@ -27,7 +27,7 @@
         }
     }
     class Termin {
-        public $id = 'null';
+        public $id = '12';
         public $datum = 'null';
         public $zeit = 'null';
         public $pat1 = 'null';
