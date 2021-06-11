@@ -256,7 +256,7 @@
                 echo"\n+---------------------+";
                 echo "\n\e[31m--> the patients: \e[4m", $array[$p1]->getSurname(), " ", $array[$p1]->getName(), "\e[0m\e[31m and \e[4m", $array[$p2]->getSurname(), " ", $array[$p2]->getName(), "\e[0m\e[31m are not compatible.\e[39m";
             }
-            else {
+            else {wdw
                 echo "error |";
             }
         }
